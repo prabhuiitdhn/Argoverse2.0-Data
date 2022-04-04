@@ -1,5 +1,5 @@
 # Argoverse2.0-Data
-This is for argoverse data understanding. Motion forecasting data is being explored.
+This is for argoverse2.0 data understanding. Motion forecasting data is being explored.
 
 Argoverse 2.0 data understanding for Motion forecasting (250K scenarios for Training and validation, each scenarios contains 11secs long).
 
