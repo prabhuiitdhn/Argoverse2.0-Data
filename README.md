@@ -14,3 +14,9 @@ Vector Map: Lane-level geometry: lane boundaries, lane marking types, traffic di
 Lane boundaries: Dashed white, dashed yellow, double yellow Crosswalks: Purple Intersection: grey Path of ego vehicle: red
 
 Argoverse data understanding could be used for Training vectornet for trajectory prediction.
+
+scenarios.json file contains the information of drivable areas, lane segments with centerline, left_lane_boundary points, right_lane_boundary_points, with lane segments ID with intersection and lane type. It also includes the information of pedestrians as additional information in argoverse2.0 for training vectornet with rich information of pedestrian. 
+
+
+
+
